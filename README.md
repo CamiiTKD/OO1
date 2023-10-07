@@ -1,3 +1,2 @@
 # OO1
-Objetos 1 unlp
-xd
+Orientación a Objetos 1 UNLP
